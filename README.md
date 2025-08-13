@@ -49,11 +49,11 @@ cd part-b-project
 ### 4. Place Data in data/ Folder
 Ensure the following files are inside the data folder:
 
-- data.csv (air quality data)
+- data.csv (air quality data) https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
 
-- GlobalLandTemperaturesByCity.csv (temperature data)
+- GlobalLandTemperaturesByCity.csv (temperature data) https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 
-- wfp_food_prices_global_merged_1990-2025.csv (food price data)
+- wfp_food_prices_global_merged_1990-2025.csv (food price data) https://www.kaggle.com/datasets/bassam165/global-food-prices-1992-2025?resource=download
 
 ### 5. Open the R Markdown Script
 

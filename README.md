@@ -44,7 +44,7 @@ Clone the Repository
 bash
 git clone https://github.com/your-username/part-b-project.git
 
-cd part-b-project
+cd part_b_project
 
 ### 4. Place Data in data/ Folder
 Ensure the following files are inside the data folder:
